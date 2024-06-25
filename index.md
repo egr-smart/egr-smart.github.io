@@ -11,5 +11,5 @@ I'm interested in:
 - 🎧  [**Making**](https://soundcloud.com/ramcee) and listening to weird music
 
 [**See my CV and learn more about me →**]({{ site.baseurl }}/about) </br>
-[**See what i'm working on →**]({{ site.baseurl }}/projects) </br>
+[**See what i'm working on →**](https://github.com/egr-smart) </br>
 [**See my latest blog posts →**]({{ site.baseurl }}/blog) </br>
