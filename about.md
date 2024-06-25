@@ -39,6 +39,6 @@ Now we're here, I'm really enjoying my time. Shanghai is an amazing city to live
 
 ### What I'm about
 
-I'm a little bit obsessed with self improvement. The one thing that has never failed to captivate me is the idea of mastery. Chasing mastery has intense practice in any domain that interests me - from spending hours tweaking my pitching form ⚾ and kicking technique 🏉, to commiting to working out 💪 a little bit every day for years, to spending 3+ hours every day immersing in Mandarin. I want to see where applying this mindset to coding ⌨️ will take me.
+The one thing that has never failed to captivate me is the idea of mastery. Chasing mastery has sustained me through several periods of intense practice throughout my life, doing anything from spending hours tweaking my pitching form ⚾ and kicking technique 🏉, to commiting to working out 💪 a little bit every day for years, to spending 3+ hours every day immersing in Mandarin. So long as I found it interesting and wanted to master it, I would happily devote a period of my life to it. I want to see where applying this mindset to coding ⌨️ will take me.
 
 </details>
