@@ -3,42 +3,15 @@ layout: page
 title: About me
 permalink: /about/
 ---
-#### [See my latest CV here]({{ site.url }}/downloads/2024-04-30-EdwardSmart_SE_CV.pdf)
+#### [See my latest CV here]({{ site.url }}/downloads/EdwardSmart_SRE.pdf)
 
-<details>
-<summary><h2 style="display:inline-block">Professional Summary 🤵</h2></summary>
+### My journey in Tech 
+I'm a relative late comer to software as a career. I landed my first development job at the age of 28, after spending the early part of my career consulting and doing level 2 support for a healthcare software company, and going back to school to get my Masters in Information Technology.
 
-### Consulting and Technical Support
+Right from the point at which I decided I wanted to get into coding, I was recommended by a friend to check out linux, and I was hooked from the beginning. I was amazed by how customisable everything was, I loved the idea that basically anything was possible as long as you were willing to dig through the documentation and troubleshoot your problems, and I especially loved the feeling of satisfaction I got when I managed to configure my operating system in *just* the right way. Throughout my linux journey i've dabbled with Ubuntu, Manjaro, Arch and most recently NixOS, and 
 
-After finishing up my undergraduate degree in Neuroscience at the University of Sydney, I went straight into the workforce consulting for a healthcare IT company called [**Cerner**](https://www.oracle.com/health/). I enjoyed aspects of the work, and developed a strong set of soft skills, but found myself longing for something more technical. 
+Naturally, when I asked that same friend what text editor to use, he recommended vim. At first, it was a clunky, slightly frustrating experience, but after a while it started to click, and almost felt like a minigame that I could play while I coded things. On top of that, just like with linux, the ability to tinker with and customise vim was endless and I got just as much satisfaction out of setting up my development environment as I got from actually coding.
 
-Hoping to scratch that itch, I transferred internally to the AMS team, where I worked as a Technical Solution Analyst, providing level 2 technical support to our clients. Through this work I developed a knack for troubleshooting and the tenacity to never give up on a problem, but that finding the bugs wasn't enough for me - I wanted to be the one that fixed them.
+My first gig as a developer was at Blackbook.ai, where I worked primarily on a project with Aurizon. On this project, my time was split between working as a "data wrangler" and doing full stack development. My work as the unofficial "data wrangler" involved a lot of manual data handling processes, and I looked to automate these processes as soon as possible. That experience highlighted the value of automation in a really personal and visceral way for me.
 
-### Software Development
-
-So, I went back to school and completed a Masters of Information Technology at the University of Queensland. I had always had an interest in computers and software, but never pursued a formal education in that realm, so I always felt like an outsider looking in. 
-
-Completing that degree gave me the confidence to realise that I could do it too, and helped me land my first development gig with [**Blackbook.ai**](https://blackbook.ai/) - an IT consulting firm, where I provided full stack development services to many clients. I spent a majority of my tenure at Blackbook working with [**Aurizon - Australia's largest rail freight operator**](https://www.aurizon.com.au/), as part of a team building a comprehensive yard management solution. That project involved integrating data from a smorgasbord of legacy applications and creating entirely new functionality to enable the end to end handling of yard activities in a single appication. 
-
-On that project, I performed full stack development in .NET Core (as well as some VB.NET) and Vue.js and also assumed the role of "Data Wrangler" - responsible for the cleansing, migration and integration of data from our legacy data sources.
-
-</details>
-
-<details>
-<summary><h2 style="display:inline-block">Personal Summary 👨</h2></summary>
-
-### Where I'm from
-
-I grew up in Sydney, Australia, and lived there until the age of 24, when I moved to Brisbane to transfer to a new team at the company I worked for at the time. I loved my time in both cities, and now I'm a little bit confused about where "home" is.
-
-### Where I am now
-
-I'm living in Shanghai, China now. I have always had it in my mind that my next move after Brisbane would be an international move. I had done a fair amount of international travel, but I always wanted to experience day-to-day life in a completely foreign environment. My wife is Chinese, and we made the joint decision to move to China - making good on that promise to myself and giving my wife the opportunity to make up for some lost time with her family after living abroad for so long.
-
-Now we're here, I'm really enjoying my time. Shanghai is an amazing city to live in, I can feel my Chinese improving by the day, and immersing myself in a new culture has expanded my mind in ways I never would have expected.
-
-### What I'm about
-
-The one thing that has never failed to captivate me is the idea of mastery. Chasing mastery has sustained me through several periods of intense practice throughout my life, doing anything from spending hours tweaking my pitching form ⚾ and kicking technique 🏉, to commiting to working out 💪 a little bit every day for years, to spending 3+ hours every day immersing in Mandarin. So long as I found it interesting and wanted to master it, I would happily devote a period of my life to it. I want to see where applying this mindset to coding ⌨️ will take me.
-
-</details>
+Piecing together my interest in linux, automation and work experience up to this point, i've landed on Site Reliability Engineering as a good way to leverage my skillset, and that's where i'm looking to take my next steps along this journey.

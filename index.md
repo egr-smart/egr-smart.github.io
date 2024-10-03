@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Hi, I'm Ed. 👋
-### I'm an Australian Full Stack Developer currently living in Shanghai, China. 
+### I'm a versatile tech generalist with over 3 years of technical support and consulting experience, 2 years of software development experience, and a self-driven passion for UNIX-based systems and automation.  
 
 I'm interested in:
 - 🇨🇳Learning Chinese [**through immersion**](https://refold.la/explained#philosophySection) 
